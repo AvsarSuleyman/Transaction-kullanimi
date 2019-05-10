@@ -1,0 +1,5 @@
+C:\Users\suley\Desktop\Udemy.Transaction\Udemy.Transaction.Core\obj\Debug\Udemy.Transaction.Core.csprojResolveAssemblyReference.cache
+C:\Users\suley\Desktop\Udemy.Transaction\Udemy.Transaction.Core\bin\Debug\Udemy.Transaction.Core.dll
+C:\Users\suley\Desktop\Udemy.Transaction\Udemy.Transaction.Core\bin\Debug\Udemy.Transaction.Core.pdb
+C:\Users\suley\Desktop\Udemy.Transaction\Udemy.Transaction.Core\obj\Debug\Udemy.Transaction.Core.dll
+C:\Users\suley\Desktop\Udemy.Transaction\Udemy.Transaction.Core\obj\Debug\Udemy.Transaction.Core.pdb

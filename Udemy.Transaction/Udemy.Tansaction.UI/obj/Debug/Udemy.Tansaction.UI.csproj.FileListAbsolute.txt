@@ -1,0 +1,11 @@
+C:\Users\suley\Desktop\Udemy.Transaction\Udemy.Tansaction.UI\bin\Debug\Udemy.Tansaction.UI.exe.config
+C:\Users\suley\Desktop\Udemy.Transaction\Udemy.Tansaction.UI\obj\Debug\Udemy.Tansaction.UI.csprojResolveAssemblyReference.cache
+C:\Users\suley\Desktop\Udemy.Transaction\Udemy.Tansaction.UI\obj\Debug\Udemy.Tansaction.UI.Form1.resources
+C:\Users\suley\Desktop\Udemy.Transaction\Udemy.Tansaction.UI\obj\Debug\Udemy.Tansaction.UI.Properties.Resources.resources
+C:\Users\suley\Desktop\Udemy.Transaction\Udemy.Tansaction.UI\obj\Debug\Udemy.Tansaction.UI.csproj.GenerateResource.Cache
+C:\Users\suley\Desktop\Udemy.Transaction\Udemy.Tansaction.UI\bin\Debug\Udemy.Tansaction.UI.exe
+C:\Users\suley\Desktop\Udemy.Transaction\Udemy.Tansaction.UI\bin\Debug\Udemy.Tansaction.UI.pdb
+C:\Users\suley\Desktop\Udemy.Transaction\Udemy.Tansaction.UI\bin\Debug\Udemy.Transaction.Core.dll
+C:\Users\suley\Desktop\Udemy.Transaction\Udemy.Tansaction.UI\bin\Debug\Udemy.Transaction.Core.pdb
+C:\Users\suley\Desktop\Udemy.Transaction\Udemy.Tansaction.UI\obj\Debug\Udemy.Tansaction.UI.exe
+C:\Users\suley\Desktop\Udemy.Transaction\Udemy.Tansaction.UI\obj\Debug\Udemy.Tansaction.UI.pdb
